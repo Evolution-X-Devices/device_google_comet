@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "device_google_zumapro",
+    "target_path": "device/google/zumapro"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "device_google_comet-kernels_evolution",
+    "target_path": "device/google/comet-kernels/evolution"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "vendor_google_comet",
+    "target_path": "vendor/google/comet"
+  }
+]
